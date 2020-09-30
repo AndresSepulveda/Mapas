@@ -1,5 +1,8 @@
-% Example showing the default coastline and all of the different resolutions
-% of GSHHS coastlines as we zoom in on a section of Prince Edward Island.
+% 
+% Adapted from https://www.eoas.ubc.ca/~rich/map.html#9._Zoom_in_on_Prince_Edward_Island_to_co
+%
+% Missing: Add lines between corners of an area and a central point in the other area
+%
 win_start
     clf
     axes('position',[.35 .6 .37 .37]);
